@@ -1,4 +1,4 @@
-# R-Shiny
+# Number of visits to a private hospital
 Model for focasting the number of visits a patient can do to a private hospital after his first visit based on Logistic regression and Poisson regression.
 
 Click on the following link to explore the application:
